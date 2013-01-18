@@ -1,4 +1,8 @@
+** Installiert nginx mit diversen modulen
+
+
 INSTALL
+
 		* Search for Libarys and creates Makefile
 		./configure --user=www-data --group=www-data --prefix=/usr/local/nginx/ --sbin-path=/usr/local/sbin \
 			--with-http_perl_module \
