@@ -1,3 +1,0 @@
-Upstream: flush partially filled buffers on upstream timeout.
-
-Fix typo in comment while here.
