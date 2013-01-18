@@ -22,8 +22,8 @@
 [submodule "bundle/ngx_http_dump_config_module"]
 	path = bundle/ngx_http_dump_config_module
 	url = git://github.com/catap/ngx_http_dump_config_module.git
-[submodule "ngx_http_auth_request_module"]
-	path = ngx_http_auth_request_module
+[submodule "bundle/ngx_http_auth_request_module"]
+	path = bundle/ngx_http_auth_request_module
 	url = git://github.com/catap/ngx_http_auth_request_module.git
 [submodule "bundle/ngx_http_bytes_filter_module"]
 	path = bundle/ngx_http_bytes_filter_module
