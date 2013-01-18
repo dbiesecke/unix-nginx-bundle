@@ -4,60 +4,60 @@
 [submodule "tests"]
 	path = tests
 	url = git://github.com/catap/nginx-tests.git
-[submodule "modules/ngx_http_response_module"]
-	path = modules/ngx_http_response_module
+[submodule "bundle/ngx_http_response_module"]
+	path = bundle/ngx_http_response_module
 	url = git://github.com/catap/ngx_http_response_module.git
-[submodule "modules/ngx_http_is_bot"]
-	path = modules/ngx_http_is_bot
+[submodule "bundle/ngx_http_is_bot"]
+	path = bundle/ngx_http_is_bot
 	url = git://github.com/catap/ngx_http_is_bot.git
-[submodule "modules/ngx_http_rnd_filter_module"]
-	path = modules/ngx_http_rnd_filter_module
+[submodule "bundle/ngx_http_rnd_filter_module"]
+	path = bundle/ngx_http_rnd_filter_module
 	url = git://github.com/catap/ngx_http_rnd_filter_module.git
-[submodule "modules/ngx_http_hash"]
-	path = modules/ngx_http_hash
+[submodule "bundle/ngx_http_hash"]
+	path = bundle/ngx_http_hash
 	url = git://github.com/catap/ngx_http_hash.git
-[submodule "modules/ngx_http_limit_var_module"]
-	path = modules/ngx_http_limit_var_module
+[submodule "bundle/ngx_http_limit_var_module"]
+	path = bundle/ngx_http_limit_var_module
 	url = git://github.com/catap/ngx_http_limit_var_module.git
-[submodule "modules/ngx_http_dump_config_module"]
-	path = modules/ngx_http_dump_config_module
+[submodule "bundle/ngx_http_dump_config_module"]
+	path = bundle/ngx_http_dump_config_module
 	url = git://github.com/catap/ngx_http_dump_config_module.git
-[submodule "modules/ngx_http_auth_request_module"]
-	path = modules/ngx_http_auth_request_module
+[submodule "ngx_http_auth_request_module"]
+	path = ngx_http_auth_request_module
 	url = git://github.com/catap/ngx_http_auth_request_module.git
-[submodule "modules/ngx_http_bytes_filter_module"]
-	path = modules/ngx_http_bytes_filter_module
+[submodule "bundle/ngx_http_bytes_filter_module"]
+	path = bundle/ngx_http_bytes_filter_module
 	url = git://github.com/catap/ngx_http_bytes_filter_module.git
-[submodule "modules/ngx_http_compose_filter_module"]
-	path = modules/ngx_http_compose_filter_module
+[submodule "bundle/ngx_http_compose_filter_module"]
+	path = bundle/ngx_http_compose_filter_module
 	url = git://github.com/catap/ngx_http_compose_filter_module.git
-[submodule "modules/ngx_http_gunzip_filter_module"]
-	path = modules/ngx_http_gunzip_filter_module
+[submodule "bundle/ngx_http_gunzip_filter_module"]
+	path = bundle/ngx_http_gunzip_filter_module
 	url = git://github.com/catap/ngx_http_gunzip_filter_module.git
-[submodule "modules/ngx_http_ip_tos_filter_module"]
-	path = modules/ngx_http_ip_tos_filter_module
+[submodule "bundle/ngx_http_ip_tos_filter_module"]
+	path = bundle/ngx_http_ip_tos_filter_module
 	url = git://github.com/catap/ngx_http_ip_tos_filter_module.git
-[submodule "modules/ngx_http_upstream_keepalive"]
-	path = modules/ngx_http_upstream_keepalive
+[submodule "bundle/ngx_http_upstream_keepalive"]
+	path = bundle/ngx_http_upstream_keepalive
 	url = git://github.com/catap/ngx_http_upstream_keepalive.git
-[submodule "modules/nginx-upload-module"]
-	path = modules/nginx-upload-module
+[submodule "bundle/nginx-upload-module"]
+	path = bundle/nginx-upload-module
 	url = git://github.com/catap/nginx-upload-module.git
-[submodule "modules/nginx-eval-module"]
-	path = modules/nginx-eval-module
+[submodule "bundle/nginx-eval-module"]
+	path = bundle/nginx-eval-module
 	url = git://github.com/catap/nginx-eval-module.git
-[submodule "modules/nginx-mogilefs-module"]
-	path = modules/nginx-mogilefs-module
+[submodule "bundle/nginx-mogilefs-module"]
+	path = bundle/nginx-mogilefs-module
 	url = git://github.com/catap/nginx-mogilefs-module.git
-[submodule "modules/nginx-syslog-module"]
-	path = modules/nginx-syslog-module
+[submodule "bundle/nginx-syslog-module"]
+	path = bundle/nginx-syslog-module
 	url = git://github.com/catap/nginx-syslog-module.git
-[submodule "modules/nginx-udplog-module"]
-	path = modules/nginx-udplog-module
+[submodule "bundle/nginx-udplog-module"]
+	path = bundle/nginx-udplog-module
 	url = git://github.com/catap/nginx-udplog-module.git
-[submodule "modules/nginx-upload-progress-module"]
-	path = modules/nginx-upload-progress-module
+[submodule "bundle/nginx-upload-progress-module"]
+	path = bundle/nginx-upload-progress-module
 	url = git://github.com/catap/nginx-upload-progress-module.git
-[submodule "modules/ngx_http_delay_module"]
-	path = modules/ngx_http_delay_module
+[submodule "bundle/ngx_http_delay_module"]
+	path = bundle/ngx_http_delay_module
 	url = git://github.com/catap/ngx_http_delay_module.git
